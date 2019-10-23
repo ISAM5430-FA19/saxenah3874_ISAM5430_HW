@@ -1,0 +1,12 @@
+C:\Users\saxenah3874\Source\Repos\isam5430-fa19-hw06-himanisaxena03\ISAM5430.FA19.HW06\bin\Debug\ISAM5430.FA19.HW06.exe
+C:\Users\saxenah3874\Source\Repos\isam5430-fa19-hw06-himanisaxena03\ISAM5430.FA19.HW06\bin\Debug\ISAM5430.FA19.HW06.pdb
+C:\Users\saxenah3874\Source\Repos\isam5430-fa19-hw06-himanisaxena03\ISAM5430.FA19.HW06\obj\Debug\ISAM5430.FA19.HW06.csprojAssemblyReference.cache
+C:\Users\saxenah3874\Source\Repos\isam5430-fa19-hw06-himanisaxena03\ISAM5430.FA19.HW06\obj\Debug\ISAM5430.FA19.HW06.csproj.CoreCompileInputs.cache
+C:\Users\saxenah3874\Source\Repos\isam5430-fa19-hw06-himanisaxena03\ISAM5430.FA19.HW06\obj\Debug\ISAM5430.FA19.HW06.exe
+C:\Users\saxenah3874\Source\Repos\isam5430-fa19-hw06-himanisaxena03\ISAM5430.FA19.HW06\obj\Debug\ISAM5430.FA19.HW06.pdb
+C:\Users\parag\Desktop\himani classes\C#\isam5430-fa19-hw06-himanisaxena03\ISAM5430.FA19.HW06\bin\Debug\ISAM5430.FA19.HW06.exe
+C:\Users\parag\Desktop\himani classes\C#\isam5430-fa19-hw06-himanisaxena03\ISAM5430.FA19.HW06\bin\Debug\ISAM5430.FA19.HW06.pdb
+C:\Users\parag\Desktop\himani classes\C#\isam5430-fa19-hw06-himanisaxena03\ISAM5430.FA19.HW06\obj\Debug\ISAM5430.FA19.HW06.csprojAssemblyReference.cache
+C:\Users\parag\Desktop\himani classes\C#\isam5430-fa19-hw06-himanisaxena03\ISAM5430.FA19.HW06\obj\Debug\ISAM5430.FA19.HW06.csproj.CoreCompileInputs.cache
+C:\Users\parag\Desktop\himani classes\C#\isam5430-fa19-hw06-himanisaxena03\ISAM5430.FA19.HW06\obj\Debug\ISAM5430.FA19.HW06.exe
+C:\Users\parag\Desktop\himani classes\C#\isam5430-fa19-hw06-himanisaxena03\ISAM5430.FA19.HW06\obj\Debug\ISAM5430.FA19.HW06.pdb

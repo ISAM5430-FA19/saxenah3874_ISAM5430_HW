@@ -1,0 +1,16 @@
+C:\Users\saxenah3874\Source\Repos\isam5430-fa19-hw06-himanisaxena03\ISAM5430.FA19.HW06.Tests\bin\Debug\ISAM5430.FA19.HW06.Tests.dll
+C:\Users\saxenah3874\Source\Repos\isam5430-fa19-hw06-himanisaxena03\ISAM5430.FA19.HW06.Tests\bin\Debug\ISAM5430.FA19.HW06.Tests.pdb
+C:\Users\saxenah3874\Source\Repos\isam5430-fa19-hw06-himanisaxena03\ISAM5430.FA19.HW06.Tests\bin\Debug\ISAM5430.FA19.HW06.exe
+C:\Users\saxenah3874\Source\Repos\isam5430-fa19-hw06-himanisaxena03\ISAM5430.FA19.HW06.Tests\bin\Debug\nunit.framework.dll
+C:\Users\saxenah3874\Source\Repos\isam5430-fa19-hw06-himanisaxena03\ISAM5430.FA19.HW06.Tests\bin\Debug\ISAM5430.FA19.HW06.pdb
+C:\Users\saxenah3874\Source\Repos\isam5430-fa19-hw06-himanisaxena03\ISAM5430.FA19.HW06.Tests\bin\Debug\nunit.framework.pdb
+C:\Users\saxenah3874\Source\Repos\isam5430-fa19-hw06-himanisaxena03\ISAM5430.FA19.HW06.Tests\bin\Debug\nunit.framework.xml
+C:\Users\saxenah3874\Source\Repos\isam5430-fa19-hw06-himanisaxena03\ISAM5430.FA19.HW06.Tests\obj\Debug\ISAM5430.FA19.HW06.Tests.csprojAssemblyReference.cache
+C:\Users\saxenah3874\Source\Repos\isam5430-fa19-hw06-himanisaxena03\ISAM5430.FA19.HW06.Tests\obj\Debug\ISAM5430.FA19.HW06.Tests.csproj.CoreCompileInputs.cache
+C:\Users\saxenah3874\Source\Repos\isam5430-fa19-hw06-himanisaxena03\ISAM5430.FA19.HW06.Tests\obj\Debug\ISAM5430.FA19.HW06.Tests.csproj.CopyComplete
+C:\Users\saxenah3874\Source\Repos\isam5430-fa19-hw06-himanisaxena03\ISAM5430.FA19.HW06.Tests\obj\Debug\ISAM5430.FA19.HW06.Tests.dll
+C:\Users\saxenah3874\Source\Repos\isam5430-fa19-hw06-himanisaxena03\ISAM5430.FA19.HW06.Tests\obj\Debug\ISAM5430.FA19.HW06.Tests.pdb
+C:\Users\saxenah3874\Source\Repos\isam5430-fa19-hw06-himanisaxena03\ISAM5430.FA19.HW06.Tests\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\saxenah3874\Source\Repos\isam5430-fa19-hw06-himanisaxena03\ISAM5430.FA19.HW06.Tests\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\saxenah3874\Source\Repos\isam5430-fa19-hw06-himanisaxena03\ISAM5430.FA19.HW06.Tests\bin\Debug\nunit.engine.dll
+C:\Users\saxenah3874\Source\Repos\isam5430-fa19-hw06-himanisaxena03\ISAM5430.FA19.HW06.Tests\bin\Debug\nunit.engine.api.dll
